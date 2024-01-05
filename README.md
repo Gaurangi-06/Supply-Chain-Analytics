@@ -1,5 +1,5 @@
 # IoT and Analytics for Supply Chain
-Created By: @Gaurangi-06
+Created By: Gaurangi Agrawal, Akash Mali
 
 IoT is the key technology used in Industry 4.0. One of the areas that has benefitted the most
 with the development of IoT is Supply Chain Management (SCM) through new technologies
